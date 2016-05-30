@@ -1,0 +1,1 @@
+/opt/odoo/addons/sale/i18n/ru.po

@@ -1,0 +1,4 @@
+/opt/odoo/addons/base_gengo/ir_translation.py
+/opt/odoo/addons/document/i18n/he.po
+/opt/odoo/addons/website/static/lib/pdfjs/external/webL10n/l10n.js
+/opt/odoo/openerp/tools/misc.py
